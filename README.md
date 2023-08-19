@@ -1,6 +1,7 @@
 ### Hello There! 👋
-- 🌱 Currently doing a Master in Informatics Engineering at University of Aveiro (UA)
-
+<!-- - 🌱 Currently doing a Master in Informatics Engineering at University of Aveiro (UA)-->
+- 💬 Ask me about **anything**! 
+- ✉️ Reach me on :<br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-soares-2a265b174)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaots002@gmail.com)
 
